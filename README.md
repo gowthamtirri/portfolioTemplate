@@ -7,7 +7,7 @@
   * Mobile Responsive
 
 ### 👇Step By Step Video Tutorial
-<a href="https://youtu.be/Rcpi4t8ucQ0" target="_blank">Watch Video</a>
+<a href="https://youtu.be/Rcpi4t8ucQ0" target="_blank">▶️ Watch Video</a>
 
   
  ### Preview
